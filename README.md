@@ -41,8 +41,10 @@
 打开命令行粘贴一键安装脚本：
 
 ```shell
-wget --no-check-certificate -O install.sh https://raw.githubusercontent.com/CCChieh/IBMYes/master/install.sh && chmod +x install.sh  && ./install.sh
+wget --no-check-certificate -O install.sh https://raw.githubusercontent.com/lazyeo/IBMYes/master/install.sh && chmod +x install.sh  && ./install.sh
 ```
+
+上一次修改增加了随机生成UUID，要在这里复制下来
 
 ![image-20200615210944753](img/README/image-20200615210944753.png)
 
